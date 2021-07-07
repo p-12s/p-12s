@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Interested in Golang? Perhaps you will be interested this repository: https://github.com/p12s  
+These are my variants for solving test tasks from different companies.  
+  
+And there are unsolved 🤷🏼‍♂️ test tasks: https://github.com/p-12s/own-golang-manual/tree/master/0-golang-test-assignment  
+
 <!--
 **p-12s/p-12s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
